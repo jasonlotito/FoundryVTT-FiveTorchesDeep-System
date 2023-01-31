@@ -3,6 +3,7 @@
   "title": "Five Torches Deep",
   "description": "The Five Torches Deep system by Sigil Stone Publishing for FoundryVTT!",
   "version": "0.1.2",
+  "coreVersion": "10",
   "minimumCoreVersion": "10.284",
   "compatibleCoreVersion": "10.284",
   "author": "Kage",
